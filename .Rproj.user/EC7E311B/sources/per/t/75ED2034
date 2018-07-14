@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531551270245.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1842293206",
+    "id" : "75ED2034",
+    "lastKnownWriteTime" : 1531559311,
+    "last_content_update" : 1531559311080,
+    "path" : "C:/Users/Administrator/rlangweekend/project_1800714/dataframe_demo.R",
+    "project_path" : "dataframe_demo.R",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
